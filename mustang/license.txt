@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mustang Mach-E
+* source:	https://sketchfab.com/3d-models/mustang-mach-e-a15f07d995fe48b4b076416240ea680f
+* author:	BadKarma™ (https://sketchfab.com/890244234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mustang Mach-E" (https://sketchfab.com/3d-models/mustang-mach-e-a15f07d995fe48b4b076416240ea680f) by BadKarma™ (https://sketchfab.com/890244234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
